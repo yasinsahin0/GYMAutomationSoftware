@@ -1,0 +1,5 @@
+INSERT INTO [dbo].[Giderler] ([tarih], [fatura_no], [aciklama], [islem_yapan], [gider]) VALUES (N'05.06.2021', N'1000', N'Çöp taşıma ücreti', N'Melek', 75)
+INSERT INTO [dbo].[Giderler] ([tarih], [fatura_no], [aciklama], [islem_yapan], [gider]) VALUES (N'05.07.2021', N'1001', N'Elektrik Faturası', N'Hakan', 140)
+INSERT INTO [dbo].[Giderler] ([tarih], [fatura_no], [aciklama], [islem_yapan], [gider]) VALUES (N'05.07.2021', N'1002', N'Su faturası', N'Hakan', 76)
+INSERT INTO [dbo].[Giderler] ([tarih], [fatura_no], [aciklama], [islem_yapan], [gider]) VALUES (N'05.07.2021', N'1003', N'Spor giderleri', N'Melek', 50)
+INSERT INTO [dbo].[Giderler] ([tarih], [fatura_no], [aciklama], [islem_yapan], [gider]) VALUES (N'05.07.2021', N'1004', N'Genel Giderler', N'Melek', 500)

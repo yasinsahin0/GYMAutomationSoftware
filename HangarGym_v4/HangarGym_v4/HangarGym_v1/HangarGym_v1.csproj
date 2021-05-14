@@ -1,0 +1,218 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C518A389-1933-41F1-AFA5-8AFB10A4DFAD}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>HangarGym_v1</RootNamespace>
+    <AssemblyName>HangarGym_v1</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>letter_h_PNG86.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="sql, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\source\repos\sql\sql\bin\Debug\sql.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Egitmenler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Egitmenler.Designer.cs">
+      <DependentUpon>Egitmenler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main.Designer.cs">
+      <DependentUpon>Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="giris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="giris.Designer.cs">
+      <DependentUpon>giris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HangardbDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HangardbDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Abone.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Abone.Designer.cs">
+      <DependentUpon>Abone.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mali.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mali.Designer.cs">
+      <DependentUpon>Mali.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Olcum.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Olcum.Designer.cs">
+      <DependentUpon>Olcum.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Saglik.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Saglik.Designer.cs">
+      <DependentUpon>Saglik.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Supplement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Supplement.Designer.cs">
+      <DependentUpon>Supplement.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Egitmenler.resx">
+      <DependentUpon>Egitmenler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main.resx">
+      <DependentUpon>Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="giris.resx">
+      <DependentUpon>giris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Abone.resx">
+      <DependentUpon>Abone.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mali.resx">
+      <DependentUpon>Mali.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Olcum.resx">
+      <DependentUpon>Olcum.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Saglik.resx">
+      <DependentUpon>Saglik.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Supplement.resx">
+      <DependentUpon>Supplement.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="HangardbDataSet.xsc">
+      <DependentUpon>HangardbDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="HangardbDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>HangardbDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="HangardbDataSet.xss">
+      <DependentUpon>HangardbDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Hangardb.mdf" />
+    <Content Include="Hangardb_log.ldf">
+      <DependentUpon>Hangardb.mdf</DependentUpon>
+    </Content>
+    <Content Include="letter_h_PNG86.ico" />
+    <None Include="Resources\hangar_gym_otomasyonyen.png" />
+    <None Include="Resources\beyazstronger1.png" />
+    <None Include="Resources\750-11_cerceve.jpg" />
+    <None Include="Resources\beyazstronger.png" />
+    <None Include="Resources\750-11.jpg" />
+    <None Include="Resources\1.gif" />
+    <None Include="Resources\750-10.jpg" />
+    <None Include="Resources\750.jpg" />
+    <None Include="Resources\arkaplan.png" />
+    <None Include="Resources\loading.gif" />
+    <None Include="Resources\gym.gif" />
+    <None Include="Resources\tenor.gif" />
+    <None Include="Resources\hangar_gym_otomasyon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.6.1">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.6.1 %28x86 ve x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 </ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

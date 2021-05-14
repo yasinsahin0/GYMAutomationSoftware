@@ -1,0 +1,205 @@
+C:\Users\yasin\source\repos\HangarGym_v1\HangarGym_v1\bin\Debug\HangarGym_v1.exe.config
+C:\Users\yasin\source\repos\HangarGym_v1\HangarGym_v1\bin\Debug\HangarGym_v1.exe
+C:\Users\yasin\source\repos\HangarGym_v1\HangarGym_v1\bin\Debug\HangarGym_v1.pdb
+C:\Users\yasin\source\repos\HangarGym_v1\HangarGym_v1\obj\Debug\HangarGym_v1.Form1.resources
+C:\Users\yasin\source\repos\HangarGym_v1\HangarGym_v1\obj\Debug\HangarGym_v1.Properties.Resources.resources
+C:\Users\yasin\source\repos\HangarGym_v1\HangarGym_v1\obj\Debug\HangarGym_v1.csproj.GenerateResource.cache
+C:\Users\yasin\source\repos\HangarGym_v1\HangarGym_v1\obj\Debug\HangarGym_v1.csproj.CoreCompileInputs.cache
+C:\Users\yasin\source\repos\HangarGym_v1\HangarGym_v1\obj\Debug\HangarGym_v1.exe
+C:\Users\yasin\source\repos\HangarGym_v1\HangarGym_v1\obj\Debug\HangarGym_v1.pdb
+C:\Users\yasin\source\repos\HangarGym_v1\HangarGym_v1\obj\Debug\HangarGym_v1.kayıt_ekle.resources
+C:\Users\yasin\source\repos\HangarGym_v1\HangarGym_v1\obj\Debug\HangarGym_v1.kayıt_sorgulama.resources
+C:\Users\yasin\source\repos\HangarGym_v1\HangarGym_v1\bin\Debug\HangarData.mdf
+C:\Users\yasin\source\repos\HangarGym_v1\HangarGym_v1\bin\Debug\HangarData_log.ldf
+C:\Users\yasin\source\repos\HangarGym_v1\HangarGym_v1\obj\Debug\HangarGym_v1.csprojAssemblyReference.cache
+C:\Users\yasin\source\repos\HangarGym_v2\HangarGym_v1\bin\Debug\Hangardb.mdf
+C:\Users\yasin\source\repos\HangarGym_v2\HangarGym_v1\bin\Debug\Hangardb_log.ldf
+C:\Users\yasin\source\repos\HangarGym_v2\HangarGym_v1\bin\Debug\HangarGym_v1.exe.config
+C:\Users\yasin\source\repos\HangarGym_v2\HangarGym_v1\bin\Debug\HangarGym_v1.exe
+C:\Users\yasin\source\repos\HangarGym_v2\HangarGym_v1\bin\Debug\HangarGym_v1.pdb
+C:\Users\yasin\source\repos\HangarGym_v2\HangarGym_v1\obj\Debug\HangarGym_v1.csprojAssemblyReference.cache
+C:\Users\yasin\source\repos\HangarGym_v2\HangarGym_v1\obj\Debug\HangarGym_v1.Form1.resources
+C:\Users\yasin\source\repos\HangarGym_v2\HangarGym_v1\obj\Debug\HangarGym_v1.kayıt_ekle.resources
+C:\Users\yasin\source\repos\HangarGym_v2\HangarGym_v1\obj\Debug\HangarGym_v1.kayıt_sorgulama.resources
+C:\Users\yasin\source\repos\HangarGym_v2\HangarGym_v1\obj\Debug\HangarGym_v1.Properties.Resources.resources
+C:\Users\yasin\source\repos\HangarGym_v2\HangarGym_v1\obj\Debug\HangarGym_v1.csproj.GenerateResource.cache
+C:\Users\yasin\source\repos\HangarGym_v2\HangarGym_v1\obj\Debug\HangarGym_v1.csproj.CoreCompileInputs.cache
+C:\Users\yasin\source\repos\HangarGym_v2\HangarGym_v1\obj\Debug\HangarGym_v1.exe
+C:\Users\yasin\source\repos\HangarGym_v2\HangarGym_v1\obj\Debug\HangarGym_v1.pdb
+C:\Users\yasin\source\repos\HangarGym_v2\HangarGym_v1\obj\Debug\HangarGym_v1.saglik.resources
+C:\Users\yasin\source\repos\HangarGym_v2\HangarGym_v1\obj\Debug\HangarGym_v1.aktif.resources
+C:\Users\yasin\Desktop\HangarGym_v2\HangarGym_v1\bin\Debug\Hangardb.mdf
+C:\Users\yasin\Desktop\HangarGym_v2\HangarGym_v1\bin\Debug\Hangardb_log.ldf
+C:\Users\yasin\Desktop\HangarGym_v2\HangarGym_v1\bin\Debug\HangarGym_v1.exe.config
+C:\Users\yasin\Desktop\HangarGym_v2\HangarGym_v1\bin\Debug\HangarGym_v1.exe
+C:\Users\yasin\Desktop\HangarGym_v2\HangarGym_v1\bin\Debug\HangarGym_v1.pdb
+C:\Users\yasin\Desktop\HangarGym_v2\HangarGym_v1\obj\Debug\HangarGym_v1.csprojAssemblyReference.cache
+C:\Users\yasin\Desktop\HangarGym_v2\HangarGym_v1\obj\Debug\HangarGym_v1.aktif.resources
+C:\Users\yasin\Desktop\HangarGym_v2\HangarGym_v1\obj\Debug\HangarGym_v1.Form1.resources
+C:\Users\yasin\Desktop\HangarGym_v2\HangarGym_v1\obj\Debug\HangarGym_v1.kayıt_ekle.resources
+C:\Users\yasin\Desktop\HangarGym_v2\HangarGym_v1\obj\Debug\HangarGym_v1.kayıt_sorgulama.resources
+C:\Users\yasin\Desktop\HangarGym_v2\HangarGym_v1\obj\Debug\HangarGym_v1.Properties.Resources.resources
+C:\Users\yasin\Desktop\HangarGym_v2\HangarGym_v1\obj\Debug\HangarGym_v1.saglik.resources
+C:\Users\yasin\Desktop\HangarGym_v2\HangarGym_v1\obj\Debug\HangarGym_v1.csproj.GenerateResource.cache
+C:\Users\yasin\Desktop\HangarGym_v2\HangarGym_v1\obj\Debug\HangarGym_v1.csproj.CoreCompileInputs.cache
+C:\Users\yasin\Desktop\HangarGym_v2\HangarGym_v1\obj\Debug\HangarGym_v1.exe
+C:\Users\yasin\Desktop\HangarGym_v2\HangarGym_v1\obj\Debug\HangarGym_v1.pdb
+C:\Users\yasin\Desktop\HangarGym_v2\HangarGym_v1\obj\Debug\HangarGym_v1.olcum_bilgileri.resources
+C:\Users\yasin\Desktop\HangarGym_v2\HangarGym_v1\obj\Debug\HangarGym_v1.supplement.resources
+C:\Users\yasin\Desktop\HangarGym_v2\HangarGym_v1\obj\Debug\HangarGym_v1.egitmenler.resources
+C:\Users\yasin\Desktop\HangarGym_v2\HangarGym_v1\obj\Debug\HangarGym_v1.hata.resources
+C:\Users\yasin\Desktop\HangarGym_v3\HangarGym_v1\bin\Debug\Hangardb.mdf
+C:\Users\yasin\Desktop\HangarGym_v3\HangarGym_v1\bin\Debug\Hangardb_log.ldf
+C:\Users\yasin\Desktop\HangarGym_v3\HangarGym_v1\bin\Debug\HangarGym_v1.exe.config
+C:\Users\yasin\Desktop\HangarGym_v3\HangarGym_v1\bin\Debug\HangarGym_v1.exe
+C:\Users\yasin\Desktop\HangarGym_v3\HangarGym_v1\bin\Debug\HangarGym_v1.pdb
+C:\Users\yasin\Desktop\HangarGym_v3\HangarGym_v1\bin\Debug\sql.dll
+C:\Users\yasin\Desktop\HangarGym_v3\HangarGym_v1\bin\Debug\sql.pdb
+C:\Users\yasin\Desktop\HangarGym_v3\HangarGym_v1\obj\Debug\HangarGym_v1.csprojAssemblyReference.cache
+C:\Users\yasin\Desktop\HangarGym_v3\HangarGym_v1\obj\Debug\HangarGym_v1.aktif.resources
+C:\Users\yasin\Desktop\HangarGym_v3\HangarGym_v1\obj\Debug\HangarGym_v1.egitmenler.resources
+C:\Users\yasin\Desktop\HangarGym_v3\HangarGym_v1\obj\Debug\HangarGym_v1.Form1.resources
+C:\Users\yasin\Desktop\HangarGym_v3\HangarGym_v1\obj\Debug\HangarGym_v1.hata.resources
+C:\Users\yasin\Desktop\HangarGym_v3\HangarGym_v1\obj\Debug\HangarGym_v1.kayıt_ekle.resources
+C:\Users\yasin\Desktop\HangarGym_v3\HangarGym_v1\obj\Debug\HangarGym_v1.kayıt_sorgulama.resources
+C:\Users\yasin\Desktop\HangarGym_v3\HangarGym_v1\obj\Debug\HangarGym_v1.olcum_bilgileri.resources
+C:\Users\yasin\Desktop\HangarGym_v3\HangarGym_v1\obj\Debug\HangarGym_v1.Properties.Resources.resources
+C:\Users\yasin\Desktop\HangarGym_v3\HangarGym_v1\obj\Debug\HangarGym_v1.saglik.resources
+C:\Users\yasin\Desktop\HangarGym_v3\HangarGym_v1\obj\Debug\HangarGym_v1.supplement.resources
+C:\Users\yasin\Desktop\HangarGym_v3\HangarGym_v1\obj\Debug\HangarGym_v1.csproj.GenerateResource.cache
+C:\Users\yasin\Desktop\HangarGym_v3\HangarGym_v1\obj\Debug\HangarGym_v1.csproj.CoreCompileInputs.cache
+C:\Users\yasin\Desktop\HangarGym_v3\HangarGym_v1\obj\Debug\HangarGym_v1.csproj.CopyComplete
+C:\Users\yasin\Desktop\HangarGym_v3\HangarGym_v1\obj\Debug\HangarGym_v1.exe
+C:\Users\yasin\Desktop\HangarGym_v3\HangarGym_v1\obj\Debug\HangarGym_v1.pdb
+C:\Users\yasin\Desktop\VeriTabanıProje\HangarGym_v3.1\HangarGym_v1\bin\Debug\Hangardb.mdf
+C:\Users\yasin\Desktop\VeriTabanıProje\HangarGym_v3.1\HangarGym_v1\bin\Debug\Hangardb_log.ldf
+C:\Users\yasin\Desktop\VeriTabanıProje\HangarGym_v3.1\HangarGym_v1\bin\Debug\HangarGym_v1.exe.config
+C:\Users\yasin\Desktop\VeriTabanıProje\HangarGym_v3.1\HangarGym_v1\bin\Debug\HangarGym_v1.exe
+C:\Users\yasin\Desktop\VeriTabanıProje\HangarGym_v3.1\HangarGym_v1\bin\Debug\HangarGym_v1.pdb
+C:\Users\yasin\Desktop\VeriTabanıProje\HangarGym_v3.1\HangarGym_v1\bin\Debug\sql.pdb
+C:\Users\yasin\Desktop\VeriTabanıProje\HangarGym_v3.1\HangarGym_v1\obj\Debug\HangarGym_v1.csprojAssemblyReference.cache
+C:\Users\yasin\Desktop\VeriTabanıProje\HangarGym_v3.1\HangarGym_v1\obj\Debug\HangarGym_v1.aktif.resources
+C:\Users\yasin\Desktop\VeriTabanıProje\HangarGym_v3.1\HangarGym_v1\obj\Debug\HangarGym_v1.egitmenler.resources
+C:\Users\yasin\Desktop\VeriTabanıProje\HangarGym_v3.1\HangarGym_v1\obj\Debug\HangarGym_v1.giris.resources
+C:\Users\yasin\Desktop\VeriTabanıProje\HangarGym_v3.1\HangarGym_v1\obj\Debug\HangarGym_v1.hata.resources
+C:\Users\yasin\Desktop\VeriTabanıProje\HangarGym_v3.1\HangarGym_v1\obj\Debug\HangarGym_v1.kayıt_sorgulama.resources
+C:\Users\yasin\Desktop\VeriTabanıProje\HangarGym_v3.1\HangarGym_v1\obj\Debug\HangarGym_v1.Properties.Resources.resources
+C:\Users\yasin\Desktop\VeriTabanıProje\HangarGym_v3.1\HangarGym_v1\obj\Debug\HangarGym_v1.saglik.resources
+C:\Users\yasin\Desktop\VeriTabanıProje\HangarGym_v3.1\HangarGym_v1\obj\Debug\HangarGym_v1.supplement.resources
+C:\Users\yasin\Desktop\VeriTabanıProje\HangarGym_v3.1\HangarGym_v1\obj\Debug\HangarGym_v1.csproj.GenerateResource.cache
+C:\Users\yasin\Desktop\VeriTabanıProje\HangarGym_v3.1\HangarGym_v1\obj\Debug\HangarGym_v1.csproj.CoreCompileInputs.cache
+C:\Users\yasin\Desktop\VeriTabanıProje\HangarGym_v3.1\HangarGym_v1\obj\Debug\HangarGym_v1.csproj.CopyComplete
+C:\Users\yasin\Desktop\VeriTabanıProje\HangarGym_v3.1\HangarGym_v1\obj\Debug\HangarGym_v1.exe
+C:\Users\yasin\Desktop\VeriTabanıProje\HangarGym_v3.1\HangarGym_v1\obj\Debug\HangarGym_v1.pdb
+C:\Users\yasin\Desktop\VeriTabanıProje\HangarGym_v3.1\HangarGym_v1\obj\Debug\HangarGym_v1.Main.resources
+C:\Users\yasin\Desktop\VeriTabanıProje\HangarGym_v3.1\HangarGym_v1\obj\Debug\HangarGym_v1.Abone.resources
+C:\Users\yasin\Desktop\VeriTabanıProje\HangarGym_v3.1\HangarGym_v1\obj\Debug\HangarGym_v1.Olcum.resources
+C:\Users\yasin\Desktop\VeriTabanıProje\HangarGym_v3.1\HangarGym_v1\bin\Debug\sql.dll
+C:\Users\yasin\Desktop\VeriTabanıProje\HangarGym_v3.1\HangarGym_v1\obj\Debug\HangarGym_v1.Mali.resources
+C:\Users\yasin\Desktop\VeriTabanıProje\HangarGym_v3.2\HangarGym_v1\bin\Debug\Hangardb.mdf
+C:\Users\yasin\Desktop\VeriTabanıProje\HangarGym_v3.2\HangarGym_v1\bin\Debug\Hangardb_log.ldf
+C:\Users\yasin\Desktop\VeriTabanıProje\HangarGym_v3.2\HangarGym_v1\bin\Debug\HangarGym_v1.exe.config
+C:\Users\yasin\Desktop\VeriTabanıProje\HangarGym_v3.2\HangarGym_v1\bin\Debug\HangarGym_v1.exe
+C:\Users\yasin\Desktop\VeriTabanıProje\HangarGym_v3.2\HangarGym_v1\bin\Debug\HangarGym_v1.pdb
+C:\Users\yasin\Desktop\VeriTabanıProje\HangarGym_v3.2\HangarGym_v1\bin\Debug\sql.dll
+C:\Users\yasin\Desktop\VeriTabanıProje\HangarGym_v3.2\HangarGym_v1\bin\Debug\sql.pdb
+C:\Users\yasin\Desktop\VeriTabanıProje\HangarGym_v3.2\HangarGym_v1\obj\Debug\HangarGym_v1.csprojAssemblyReference.cache
+C:\Users\yasin\Desktop\VeriTabanıProje\HangarGym_v3.2\HangarGym_v1\obj\Debug\HangarGym_v1.aktif.resources
+C:\Users\yasin\Desktop\VeriTabanıProje\HangarGym_v3.2\HangarGym_v1\obj\Debug\HangarGym_v1.Egitmenler.resources
+C:\Users\yasin\Desktop\VeriTabanıProje\HangarGym_v3.2\HangarGym_v1\obj\Debug\HangarGym_v1.Main.resources
+C:\Users\yasin\Desktop\VeriTabanıProje\HangarGym_v3.2\HangarGym_v1\obj\Debug\HangarGym_v1.giris.resources
+C:\Users\yasin\Desktop\VeriTabanıProje\HangarGym_v3.2\HangarGym_v1\obj\Debug\HangarGym_v1.Hata.resources
+C:\Users\yasin\Desktop\VeriTabanıProje\HangarGym_v3.2\HangarGym_v1\obj\Debug\HangarGym_v1.Abone.resources
+C:\Users\yasin\Desktop\VeriTabanıProje\HangarGym_v3.2\HangarGym_v1\obj\Debug\HangarGym_v1.kayıt_sorgulama.resources
+C:\Users\yasin\Desktop\VeriTabanıProje\HangarGym_v3.2\HangarGym_v1\obj\Debug\HangarGym_v1.Mali.resources
+C:\Users\yasin\Desktop\VeriTabanıProje\HangarGym_v3.2\HangarGym_v1\obj\Debug\HangarGym_v1.Olcum.resources
+C:\Users\yasin\Desktop\VeriTabanıProje\HangarGym_v3.2\HangarGym_v1\obj\Debug\HangarGym_v1.Properties.Resources.resources
+C:\Users\yasin\Desktop\VeriTabanıProje\HangarGym_v3.2\HangarGym_v1\obj\Debug\HangarGym_v1.Saglik.resources
+C:\Users\yasin\Desktop\VeriTabanıProje\HangarGym_v3.2\HangarGym_v1\obj\Debug\HangarGym_v1.Supplement.resources
+C:\Users\yasin\Desktop\VeriTabanıProje\HangarGym_v3.2\HangarGym_v1\obj\Debug\HangarGym_v1.csproj.GenerateResource.cache
+C:\Users\yasin\Desktop\VeriTabanıProje\HangarGym_v3.2\HangarGym_v1\obj\Debug\HangarGym_v1.csproj.CoreCompileInputs.cache
+C:\Users\yasin\Desktop\VeriTabanıProje\HangarGym_v3.2\HangarGym_v1\obj\Debug\HangarGym_v1.csproj.CopyComplete
+C:\Users\yasin\Desktop\VeriTabanıProje\HangarGym_v3.2\HangarGym_v1\obj\Debug\HangarGym_v1.exe
+C:\Users\yasin\Desktop\VeriTabanıProje\HangarGym_v3.2\HangarGym_v1\obj\Debug\HangarGym_v1.pdb
+C:\Users\yasin\Desktop\VeriTabanıProje\HangarGym_v3.3\HangarGym_v1\bin\Debug\Hangardb.mdf
+C:\Users\yasin\Desktop\VeriTabanıProje\HangarGym_v3.3\HangarGym_v1\bin\Debug\Hangardb_log.ldf
+C:\Users\yasin\Desktop\VeriTabanıProje\HangarGym_v3.3\HangarGym_v1\bin\Debug\HangarGym_v1.exe.config
+C:\Users\yasin\Desktop\VeriTabanıProje\HangarGym_v3.3\HangarGym_v1\bin\Debug\HangarGym_v1.exe
+C:\Users\yasin\Desktop\VeriTabanıProje\HangarGym_v3.3\HangarGym_v1\bin\Debug\HangarGym_v1.pdb
+C:\Users\yasin\Desktop\VeriTabanıProje\HangarGym_v3.3\HangarGym_v1\bin\Debug\sql.dll
+C:\Users\yasin\Desktop\VeriTabanıProje\HangarGym_v3.3\HangarGym_v1\bin\Debug\sql.pdb
+C:\Users\yasin\Desktop\VeriTabanıProje\HangarGym_v3.3\HangarGym_v1\obj\Debug\HangarGym_v1.csprojAssemblyReference.cache
+C:\Users\yasin\Desktop\VeriTabanıProje\HangarGym_v3.3\HangarGym_v1\obj\Debug\HangarGym_v1.Egitmenler.resources
+C:\Users\yasin\Desktop\VeriTabanıProje\HangarGym_v3.3\HangarGym_v1\obj\Debug\HangarGym_v1.Main.resources
+C:\Users\yasin\Desktop\VeriTabanıProje\HangarGym_v3.3\HangarGym_v1\obj\Debug\HangarGym_v1.giris.resources
+C:\Users\yasin\Desktop\VeriTabanıProje\HangarGym_v3.3\HangarGym_v1\obj\Debug\HangarGym_v1.Hata.resources
+C:\Users\yasin\Desktop\VeriTabanıProje\HangarGym_v3.3\HangarGym_v1\obj\Debug\HangarGym_v1.Abone.resources
+C:\Users\yasin\Desktop\VeriTabanıProje\HangarGym_v3.3\HangarGym_v1\obj\Debug\HangarGym_v1.Mali.resources
+C:\Users\yasin\Desktop\VeriTabanıProje\HangarGym_v3.3\HangarGym_v1\obj\Debug\HangarGym_v1.Olcum.resources
+C:\Users\yasin\Desktop\VeriTabanıProje\HangarGym_v3.3\HangarGym_v1\obj\Debug\HangarGym_v1.Properties.Resources.resources
+C:\Users\yasin\Desktop\VeriTabanıProje\HangarGym_v3.3\HangarGym_v1\obj\Debug\HangarGym_v1.Saglik.resources
+C:\Users\yasin\Desktop\VeriTabanıProje\HangarGym_v3.3\HangarGym_v1\obj\Debug\HangarGym_v1.Supplement.resources
+C:\Users\yasin\Desktop\VeriTabanıProje\HangarGym_v3.3\HangarGym_v1\obj\Debug\HangarGym_v1.csproj.GenerateResource.cache
+C:\Users\yasin\Desktop\VeriTabanıProje\HangarGym_v3.3\HangarGym_v1\obj\Debug\HangarGym_v1.csproj.CoreCompileInputs.cache
+C:\Users\yasin\Desktop\VeriTabanıProje\HangarGym_v3.3\HangarGym_v1\obj\Debug\HangarGym_v1.csproj.CopyComplete
+C:\Users\yasin\Desktop\VeriTabanıProje\HangarGym_v3.3\HangarGym_v1\obj\Debug\HangarGym_v1.exe
+C:\Users\yasin\Desktop\VeriTabanıProje\HangarGym_v3.3\HangarGym_v1\obj\Debug\HangarGym_v1.pdb
+C:\Users\yasin\Desktop\VeriTabanıProje\HangarGym_v4\HangarGym_v1\bin\Debug\HangarGym_v1.exe.config
+C:\Users\yasin\Desktop\VeriTabanıProje\HangarGym_v4\HangarGym_v1\bin\Debug\HangarGym_v1.exe
+C:\Users\yasin\Desktop\VeriTabanıProje\HangarGym_v4\HangarGym_v1\bin\Debug\HangarGym_v1.pdb
+C:\Users\yasin\Desktop\VeriTabanıProje\HangarGym_v4\HangarGym_v1\bin\Debug\sql.dll
+C:\Users\yasin\Desktop\VeriTabanıProje\HangarGym_v4\HangarGym_v1\bin\Debug\sql.pdb
+C:\Users\yasin\Desktop\VeriTabanıProje\HangarGym_v4\HangarGym_v1\obj\Debug\HangarGym_v1.csprojAssemblyReference.cache
+C:\Users\yasin\Desktop\VeriTabanıProje\HangarGym_v4\HangarGym_v1\obj\Debug\HangarGym_v1.Egitmenler.resources
+C:\Users\yasin\Desktop\VeriTabanıProje\HangarGym_v4\HangarGym_v1\obj\Debug\HangarGym_v1.Main.resources
+C:\Users\yasin\Desktop\VeriTabanıProje\HangarGym_v4\HangarGym_v1\obj\Debug\HangarGym_v1.giris.resources
+C:\Users\yasin\Desktop\VeriTabanıProje\HangarGym_v4\HangarGym_v1\obj\Debug\HangarGym_v1.Abone.resources
+C:\Users\yasin\Desktop\VeriTabanıProje\HangarGym_v4\HangarGym_v1\obj\Debug\HangarGym_v1.Mali.resources
+C:\Users\yasin\Desktop\VeriTabanıProje\HangarGym_v4\HangarGym_v1\obj\Debug\HangarGym_v1.Olcum.resources
+C:\Users\yasin\Desktop\VeriTabanıProje\HangarGym_v4\HangarGym_v1\obj\Debug\HangarGym_v1.Properties.Resources.resources
+C:\Users\yasin\Desktop\VeriTabanıProje\HangarGym_v4\HangarGym_v1\obj\Debug\HangarGym_v1.Saglik.resources
+C:\Users\yasin\Desktop\VeriTabanıProje\HangarGym_v4\HangarGym_v1\obj\Debug\HangarGym_v1.Supplement.resources
+C:\Users\yasin\Desktop\VeriTabanıProje\HangarGym_v4\HangarGym_v1\obj\Debug\HangarGym_v1.csproj.GenerateResource.cache
+C:\Users\yasin\Desktop\VeriTabanıProje\HangarGym_v4\HangarGym_v1\obj\Debug\HangarGym_v1.csproj.CoreCompileInputs.cache
+C:\Users\yasin\Desktop\VeriTabanıProje\HangarGym_v4\HangarGym_v1\obj\Debug\HangarGym_v1.csproj.CopyComplete
+C:\Users\yasin\Desktop\VeriTabanıProje\HangarGym_v4\HangarGym_v1\obj\Debug\HangarGym_v1.exe
+C:\Users\yasin\Desktop\VeriTabanıProje\HangarGym_v4\HangarGym_v1\obj\Debug\HangarGym_v1.pdb
+C:\Users\yasin\Desktop\Yeni VT Proje\HangarGym_v4\HangarGym_v4\HangarGym_v1\bin\Debug\HangarGym_v1.exe.config
+C:\Users\yasin\Desktop\Yeni VT Proje\HangarGym_v4\HangarGym_v4\HangarGym_v1\bin\Debug\HangarGym_v1.exe
+C:\Users\yasin\Desktop\Yeni VT Proje\HangarGym_v4\HangarGym_v4\HangarGym_v1\bin\Debug\HangarGym_v1.pdb
+C:\Users\yasin\Desktop\Yeni VT Proje\HangarGym_v4\HangarGym_v4\HangarGym_v1\bin\Debug\sql.pdb
+C:\Users\yasin\Desktop\Yeni VT Proje\HangarGym_v4\HangarGym_v4\HangarGym_v1\obj\Debug\HangarGym_v1.csprojAssemblyReference.cache
+C:\Users\yasin\Desktop\Yeni VT Proje\HangarGym_v4\HangarGym_v4\HangarGym_v1\obj\Debug\HangarGym_v1.Egitmenler.resources
+C:\Users\yasin\Desktop\Yeni VT Proje\HangarGym_v4\HangarGym_v4\HangarGym_v1\obj\Debug\HangarGym_v1.Main.resources
+C:\Users\yasin\Desktop\Yeni VT Proje\HangarGym_v4\HangarGym_v4\HangarGym_v1\obj\Debug\HangarGym_v1.giris.resources
+C:\Users\yasin\Desktop\Yeni VT Proje\HangarGym_v4\HangarGym_v4\HangarGym_v1\obj\Debug\HangarGym_v1.Abone.resources
+C:\Users\yasin\Desktop\Yeni VT Proje\HangarGym_v4\HangarGym_v4\HangarGym_v1\obj\Debug\HangarGym_v1.Mali.resources
+C:\Users\yasin\Desktop\Yeni VT Proje\HangarGym_v4\HangarGym_v4\HangarGym_v1\obj\Debug\HangarGym_v1.Olcum.resources
+C:\Users\yasin\Desktop\Yeni VT Proje\HangarGym_v4\HangarGym_v4\HangarGym_v1\obj\Debug\HangarGym_v1.Properties.Resources.resources
+C:\Users\yasin\Desktop\Yeni VT Proje\HangarGym_v4\HangarGym_v4\HangarGym_v1\obj\Debug\HangarGym_v1.Saglik.resources
+C:\Users\yasin\Desktop\Yeni VT Proje\HangarGym_v4\HangarGym_v4\HangarGym_v1\obj\Debug\HangarGym_v1.Supplement.resources
+C:\Users\yasin\Desktop\Yeni VT Proje\HangarGym_v4\HangarGym_v4\HangarGym_v1\obj\Debug\HangarGym_v1.csproj.GenerateResource.cache
+C:\Users\yasin\Desktop\Yeni VT Proje\HangarGym_v4\HangarGym_v4\HangarGym_v1\obj\Debug\HangarGym_v1.csproj.CoreCompileInputs.cache
+C:\Users\yasin\Desktop\Yeni VT Proje\HangarGym_v4\HangarGym_v4\HangarGym_v1\obj\Debug\HangarGym_v1.csproj.CopyComplete
+C:\Users\yasin\Desktop\Yeni VT Proje\HangarGym_v4\HangarGym_v4\HangarGym_v1\obj\Debug\HangarGym_v1.exe
+C:\Users\yasin\Desktop\Yeni VT Proje\HangarGym_v4\HangarGym_v4\HangarGym_v1\obj\Debug\HangarGym_v1.pdb
+C:\Users\yasin\Desktop\Yeni VT Proje\HangarGym_v4\HangarGym_v4\HangarGym_v1\bin\Debug\sql.dll
+C:\Users\yasin\OneDrive\Veritabanı\VeriTabanıProje\Yeni VT Proje\HangarGym_v4\HangarGym_v4\HangarGym_v1\bin\Debug\HangarGym_v1.exe.config
+C:\Users\yasin\OneDrive\Veritabanı\VeriTabanıProje\Yeni VT Proje\HangarGym_v4\HangarGym_v4\HangarGym_v1\bin\Debug\HangarGym_v1.exe
+C:\Users\yasin\OneDrive\Veritabanı\VeriTabanıProje\Yeni VT Proje\HangarGym_v4\HangarGym_v4\HangarGym_v1\bin\Debug\HangarGym_v1.pdb
+C:\Users\yasin\OneDrive\Veritabanı\VeriTabanıProje\Yeni VT Proje\HangarGym_v4\HangarGym_v4\HangarGym_v1\bin\Debug\sql.pdb
+C:\Users\yasin\OneDrive\Veritabanı\VeriTabanıProje\Yeni VT Proje\HangarGym_v4\HangarGym_v4\HangarGym_v1\obj\Debug\HangarGym_v1.csprojAssemblyReference.cache
+C:\Users\yasin\OneDrive\Veritabanı\VeriTabanıProje\Yeni VT Proje\HangarGym_v4\HangarGym_v4\HangarGym_v1\obj\Debug\HangarGym_v1.Egitmenler.resources
+C:\Users\yasin\OneDrive\Veritabanı\VeriTabanıProje\Yeni VT Proje\HangarGym_v4\HangarGym_v4\HangarGym_v1\obj\Debug\HangarGym_v1.Main.resources
+C:\Users\yasin\OneDrive\Veritabanı\VeriTabanıProje\Yeni VT Proje\HangarGym_v4\HangarGym_v4\HangarGym_v1\obj\Debug\HangarGym_v1.giris.resources
+C:\Users\yasin\OneDrive\Veritabanı\VeriTabanıProje\Yeni VT Proje\HangarGym_v4\HangarGym_v4\HangarGym_v1\obj\Debug\HangarGym_v1.Abone.resources
+C:\Users\yasin\OneDrive\Veritabanı\VeriTabanıProje\Yeni VT Proje\HangarGym_v4\HangarGym_v4\HangarGym_v1\obj\Debug\HangarGym_v1.Mali.resources
+C:\Users\yasin\OneDrive\Veritabanı\VeriTabanıProje\Yeni VT Proje\HangarGym_v4\HangarGym_v4\HangarGym_v1\obj\Debug\HangarGym_v1.Olcum.resources
+C:\Users\yasin\OneDrive\Veritabanı\VeriTabanıProje\Yeni VT Proje\HangarGym_v4\HangarGym_v4\HangarGym_v1\obj\Debug\HangarGym_v1.Properties.Resources.resources
+C:\Users\yasin\OneDrive\Veritabanı\VeriTabanıProje\Yeni VT Proje\HangarGym_v4\HangarGym_v4\HangarGym_v1\obj\Debug\HangarGym_v1.Saglik.resources
+C:\Users\yasin\OneDrive\Veritabanı\VeriTabanıProje\Yeni VT Proje\HangarGym_v4\HangarGym_v4\HangarGym_v1\obj\Debug\HangarGym_v1.Supplement.resources
+C:\Users\yasin\OneDrive\Veritabanı\VeriTabanıProje\Yeni VT Proje\HangarGym_v4\HangarGym_v4\HangarGym_v1\obj\Debug\HangarGym_v1.csproj.GenerateResource.cache
+C:\Users\yasin\OneDrive\Veritabanı\VeriTabanıProje\Yeni VT Proje\HangarGym_v4\HangarGym_v4\HangarGym_v1\obj\Debug\HangarGym_v1.csproj.CoreCompileInputs.cache
+C:\Users\yasin\OneDrive\Veritabanı\VeriTabanıProje\Yeni VT Proje\HangarGym_v4\HangarGym_v4\HangarGym_v1\obj\Debug\HangarGym_v1.csproj.CopyComplete
+C:\Users\yasin\OneDrive\Veritabanı\VeriTabanıProje\Yeni VT Proje\HangarGym_v4\HangarGym_v4\HangarGym_v1\obj\Debug\HangarGym_v1.exe
+C:\Users\yasin\OneDrive\Veritabanı\VeriTabanıProje\Yeni VT Proje\HangarGym_v4\HangarGym_v4\HangarGym_v1\obj\Debug\HangarGym_v1.pdb

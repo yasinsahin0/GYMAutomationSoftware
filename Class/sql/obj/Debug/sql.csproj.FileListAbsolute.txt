@@ -1,0 +1,6 @@
+C:\Users\yasin\source\repos\sql\sql\obj\Debug\sql.csproj.CoreCompileInputs.cache
+C:\Users\yasin\source\repos\sql\sql\bin\Debug\sql.dll
+C:\Users\yasin\source\repos\sql\sql\bin\Debug\sql.pdb
+C:\Users\yasin\source\repos\sql\sql\obj\Debug\sql.dll
+C:\Users\yasin\source\repos\sql\sql\obj\Debug\sql.pdb
+C:\Users\yasin\source\repos\sql\sql\obj\Debug\sql.csprojAssemblyReference.cache
