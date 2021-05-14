@@ -10,3 +10,4 @@ ve müdahale etmeyi kolaylaştırmak amacıyla yazılan sınıf mevcuttur.
 
 ### Görseller
 ![](https://github.com/yasinsahin0/Gym-Otomasyon/blob/main/gorsel/1.PNG)
+![](https://github.com/yasinsahin0/Gym-Otomasyon/blob/main/gorsel/2.PNG)
